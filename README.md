@@ -6,5 +6,5 @@ This is a sample application demonstrating how to build an Node.js express RESTf
 
 1. Clone the repo
 2. Install dependencies: `npm install`
-3. Start your mongoDB instance. This repo works on an instance running on `localhost:27017`
+3. [Install and run MongoDB](https://www.mongodb.com/docs/manual/installation/) on your system. This repo works on an instance running on `localhost:27017`
 4. Start the application: `node index.js`
